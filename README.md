@@ -1,5 +1,5 @@
 # Proyecto ```UFRO Ayudas```
-Durante la cursada de la asignatura Programación de sistemas de la Universidad de la Frontera, se nos encomendó un proyectó con un propósito de libre elección. Con la intención de contribuir a la casa de estudios, se diseñó y desarrolló una aplicación de escritorio que permite a los estudiantes de la UFRO registrarse y solicitar ayudantías, así como buscar ayudantías creadas en el servidor para convertirse en el "tutor" de dicha ayudantía. La finalidad de la aplicación es permitir que los estudiantes generen ingresos monetarios en función de sus conocimientos, tal y como se detallan en las ayudantías de la aplicación.
+Durante la cursada de la asignatura ```Programación de sistemas``` de la Universidad de la Frontera, se nos encomendó un proyectó con un propósito de libre elección. Con la intención de contribuir a la casa de estudios, se diseñó y desarrolló una aplicación de escritorio que permite a los estudiantes de la UFRO registrarse y solicitar ayudantías, así como buscar ayudantías creadas en el servidor para convertirse en el "tutor" de dicha ayudantía. La finalidad de la aplicación es permitir que los estudiantes generen ingresos monetarios en función de sus conocimientos, tal y como se detallan en las ayudantías de la aplicación.
 
 ### Tecnología.
 <p align="center">
