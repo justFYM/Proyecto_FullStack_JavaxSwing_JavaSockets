@@ -1,13 +1,14 @@
 # Proyecto: ```UFRO Ayudas```
-El proyecto que se presenta a continuación fue diseñado y creado durante la asignatura ```Programación de sistemas```, ocupando la metodología tradicional iterativa. Su intención es contribuir a la Universidad de La Frontera con una aplicación de escritorio que permita a los estudiantes de la institución registrarse y solicitar ayudantías, así como buscar ayudantías creadas en el servidor para convertirse en el "tutor" de dicha ayudantía. El propósito de la aplicación es permitir que los estudiantes generen ingresos monetarios en función de sus conocimientos, tal y como se detallan en las ayudantías disponibles en la aplicación.
-### Tecnología.
+El siguiente proyecto fue diseñado y creado durante la cursada de la asignatura ```Programación de sistemas``` en la Universidad de La Frontera, ocupando la metodología tradicional iterativa. La intención del proyecto es permitir a los estudiantes de la institución registrarse y solicitar ayudantías, así como buscar ayudantías creadas en el servidor para convertirse en el "tutor" de dicha ayudantía. Con la aplicación, los estudiantes podrán generar ingresos monetarios en función de sus conocimientos, tal y como se detallan en las ayudantías disponibles en la aplicación.
+
+### Stack de tecnologías.
 <p align="center">
   <img src="./IMG/Tec.PNG" alt="Descripción de la imagen">
 </p>
-Para llevar a cabo el proyecto, se ocupó principalmente Java, lo que permitió beneficiarse de las ventajas de la programación orientada a objetos y sus características, como la herencia, el polimorfismo y otras más. Entre los paquetes que se ocuparon se encuentran: java.io para manejar archivos FILE que actúan como base de datos de la aplicación, javax.swing para crear la interfaz gráfica de la aplicación y java.net para el envío de solicitudes (objetos de Java) requerido para la comunicación entre el cliente y el servidor a través del protocolo TCP/IP mediante Java Sockets. Además, se emplearon archivos .JAR externos para optimizar el desarrollo de las aplicaciones cliente/servidor.
+Para llevar a cabo el proyecto, principalmente se ocupó Java, lo que permitió beneficiarse de las ventajas de la programación orientada a objetos y sus características, como la herencia, el polimorfismo y otras más. Entre los paquetes ocupados, se encuentran: java.io para manejar archivos FILE que actúan como base de datos de la aplicación, javax.swing para crear la interfaz gráfica de la aplicación y java.net para el envío de solicitudes (objetos de Java) requeridas para la comunicación entre cliente/servidor a través del protocolo TCP/IP mediante Java Sockets. Además, se emplearon archivos .JAR externos para optimizar el desarrollo de la aplicación cliente/servidor.
 
-#### El código fuente completo de la aplicación (tanto del cliente como del servidor) se encuentra reservado. Si algún reclutador está interesado en ver la aplicación en funcionamiento o quiere obtener más información, puede ponerse en contacto conmigo a través del correo electrónico manriquezfernando.ns@gmail.com
-A continuación, se presentarán imágenes de la aplicación según los tipos de usuario que pueden existir en la misma, es decir, ayudante o solicitante. Esto se hace para una mayor comprensión de las funcionalidades específicas que se presentan en cada una de ellas.
+#### El código fuente completo de la aplicación (tanto del cliente como del servidor) se encuentra reservado. Si algún reclutador está interesado en ver la aplicación en funcionamiento o quiere obtener más información, puede ponerse en contacto a través del correo electrónico manriquezfernando.ns@gmail.com
+A continuación, se presentarán imágenes de la aplicación según los tipos de usuario que pueden existir, es decir, ayudante o solicitante.
 
 ### ```Registrar cuenta```
 
